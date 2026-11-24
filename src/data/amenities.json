@@ -1,0 +1,15 @@
+[
+  { "id": "wifi", "label": "High-Speed Wi-Fi", "shortLabel": "Wi-Fi", "category": "Connectivity" },
+  { "id": "food", "label": "Food Included", "shortLabel": "Food", "category": "Dining" },
+  { "id": "ac", "label": "Air Conditioning", "shortLabel": "AC", "category": "Comfort" },
+  { "id": "attached_bathroom", "label": "Attached Bathroom", "shortLabel": "Attached Bath", "category": "Room" },
+  { "id": "laundry", "label": "Laundry Service", "shortLabel": "Laundry", "category": "Services" },
+  { "id": "washing_machine", "label": "Washing Machine", "shortLabel": "Washing Machine", "category": "Appliances" },
+  { "id": "cctv", "label": "24/7 CCTV Security", "shortLabel": "CCTV", "category": "Safety" },
+  { "id": "power_backup", "label": "Power Backup", "shortLabel": "Power Backup", "category": "Utilities" },
+  { "id": "parking", "label": "Two-Wheeler & Car Parking", "shortLabel": "Parking", "category": "Outdoor" },
+  { "id": "housekeeping", "label": "Daily Housekeeping", "shortLabel": "Housekeeping", "category": "Services" },
+  { "id": "drinking_water", "label": "RO Drinking Water", "shortLabel": "RO Water", "category": "Utilities" },
+  { "id": "refrigerator", "label": "Refrigerator", "shortLabel": "Fridge", "category": "Appliances" },
+  { "id": "common_kitchen", "label": "Common Kitchen", "shortLabel": "Kitchen", "category": "Dining" }
+]

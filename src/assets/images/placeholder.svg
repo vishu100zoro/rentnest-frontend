@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#F8FAFC" />
+  <rect x="100" y="75" width="600" height="300" rx="24" fill="#E2E8F0" />
+  <text x="400" y="235" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="24" font-weight="700">
+    RentNest Monthly Rooms &amp; PGs
+  </text>
+</svg>

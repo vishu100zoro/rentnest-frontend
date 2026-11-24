@@ -1,0 +1,180 @@
+[
+  {
+    "id": "rev-1",
+    "propertyId": "prop-kol-01",
+    "reviewerName": "Ritwik Sen",
+    "reviewerRole": "Software Developer, TCS",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-10-18",
+    "stayDuration": "8 months",
+    "comment": "Walking distance to Sector V IT parks. The rooms are spotless, Wi-Fi rarely drops during WFH calls, and Bengali home-style meals on weekends are a huge plus.",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=400&q=80"
+    ]
+  },
+  {
+    "id": "rev-2",
+    "propertyId": "prop-kol-01",
+    "reviewerName": "Anirban Das",
+    "reviewerRole": "Data Analyst",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+    "rating": 4,
+    "date": "2026-09-29",
+    "stayDuration": "5 months",
+    "comment": "Transparent billing with zero hidden electricity surprises. Housekeeping comes every alternate day and laundry pickup is reliable.",
+    "images": []
+  },
+  {
+    "id": "rev-3",
+    "propertyId": "prop-kol-02",
+    "reviewerName": "Moumita Bose",
+    "reviewerRole": "MBA Student, IIFT",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-10-25",
+    "stayDuration": "11 months",
+    "comment": "Very safe girls PG in Salt Lake. Biometric entry and 24/7 caretaker give complete peace of mind. Metro station is just 5 minutes away.",
+    "images": [
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=400&q=80"
+    ]
+  },
+  {
+    "id": "rev-4",
+    "propertyId": "prop-kol-03",
+    "reviewerName": "Sayantan Mukherjee",
+    "reviewerRole": "Cloud Engineer",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-11-02",
+    "stayDuration": "6 months",
+    "comment": "Modern co-living vibe right near Axis Mall in New Town. Love the coworking lounge and rooftop hangout space.",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=400&q=80"
+    ]
+  },
+  {
+    "id": "rev-5",
+    "propertyId": "prop-kol-05",
+    "reviewerName": "Debashis Paul",
+    "reviewerRole": "B.Tech Student",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=150&q=80",
+    "rating": 4,
+    "date": "2026-08-19",
+    "stayDuration": "10 months",
+    "comment": "Great budget option near Dum Dum Metro. Easy commute to both Central Kolkata and airport area.",
+    "images": []
+  },
+  {
+    "id": "rev-6",
+    "propertyId": "prop-kol-07",
+    "reviewerName": "Roshni Kapoor",
+    "reviewerRole": "Architect",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-10-12",
+    "stayDuration": "4 months",
+    "comment": "Living off Park Street in a sunlit private room felt amazing. Cafes, metro, and bookstores are literally downstairs.",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=400&q=80"
+    ]
+  },
+  {
+    "id": "rev-7",
+    "propertyId": "prop-kol-10",
+    "reviewerName": "Subhamita Ghosh",
+    "reviewerRole": "Research Scholar, JU",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-11-04",
+    "stayDuration": "7 months",
+    "comment": "Quiet, academic-friendly atmosphere near Jadavpur University Gate 4. Clean RO water and good food hygiene.",
+    "images": []
+  },
+  {
+    "id": "rev-8",
+    "propertyId": "prop-blr-01",
+    "reviewerName": "Karthik Nair",
+    "reviewerRole": "Frontend Engineer",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-10-30",
+    "stayDuration": "9 months",
+    "comment": "Best co-living in Koramangala 4th Block. Backup power kicks in within seconds and the community dinners are super fun.",
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=400&q=80"
+    ]
+  },
+  {
+    "id": "rev-9",
+    "propertyId": "prop-pune-01",
+    "reviewerName": "Pranav Kulkarni",
+    "reviewerRole": "QA Lead, Infosys",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
+    "rating": 4,
+    "date": "2026-09-14",
+    "stayDuration": "6 months",
+    "comment": "Very convenient for Hinjewadi Phase 1 commuters. Covered parking and decent North & Maharashtrian meals.",
+    "images": []
+  },
+  {
+    "id": "rev-10",
+    "propertyId": "prop-hyd-01",
+    "reviewerName": "Divya Reddy",
+    "reviewerRole": "Product Designer",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-10-21",
+    "stayDuration": "5 months",
+    "comment": "Spacious rooms and super responsive property manager. Walkable to Madhapur metro.",
+    "images": []
+  },
+  {
+    "id": "rev-11",
+    "propertyId": "prop-del-01",
+    "reviewerName": "Ishaan Verma",
+    "reviewerRole": "DU Postgrad Student",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&q=80",
+    "rating": 4,
+    "date": "2026-10-08",
+    "stayDuration": "11 months",
+    "comment": "Ideal student stay near Hudson Lane. Good study desks and reliable AC during peak Delhi summers.",
+    "images": []
+  },
+  {
+    "id": "rev-12",
+    "propertyId": "prop-kol-04",
+    "reviewerName": "Tania Chakraborty",
+    "reviewerRole": "HR Specialist",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-11-10",
+    "stayDuration": "3 months",
+    "comment": "Booked a 1 BHK flat in Rajarhat for 6 months—everything from sofa to induction stove was ready on move-in day.",
+    "images": []
+  },
+  {
+    "id": "rev-13",
+    "propertyId": "prop-kol-13",
+    "reviewerName": "Sayan Banerjee",
+    "reviewerRole": "UX Lead",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-11-12",
+    "stayDuration": "4 months",
+    "comment": "Clean 1 BHK flat in Salt Lake BE Block with reliable fiber Wi-Fi and zero brokerage hassle.",
+    "images": []
+  },
+  {
+    "id": "rev-14",
+    "propertyId": "prop-blr-04",
+    "reviewerName": "Meera Nair",
+    "reviewerRole": "Product Manager",
+    "reviewerAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "2026-11-08",
+    "stayDuration": "6 months",
+    "comment": "Walkable to Indiranagar metro and cafes. Having a full modular kitchen on a monthly plan was super convenient.",
+    "images": []
+  }
+]

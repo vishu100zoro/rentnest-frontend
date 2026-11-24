@@ -1,0 +1,28 @@
+[
+  {
+    "id": "usr-101",
+    "name": "Aarav Chatterjee",
+    "email": "aarav@rentnest.demo",
+    "password": "Password@123",
+    "phone": "+91 98301 44210",
+    "city": "Kolkata",
+    "occupation": "Software Engineer at Sector V",
+    "gender": "Male",
+    "emergencyContact": "+91 98300 11223",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+    "joinedDate": "2025-08-14"
+  },
+  {
+    "id": "usr-102",
+    "name": "Sneha Roy",
+    "email": "sneha@rentnest.demo",
+    "password": "Password@123",
+    "phone": "+91 98742 55109",
+    "city": "Bangalore",
+    "occupation": "Product Analyst",
+    "gender": "Female",
+    "emergencyContact": "+91 98740 88901",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+    "joinedDate": "2025-11-02"
+  }
+]

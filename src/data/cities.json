@@ -1,0 +1,109 @@
+[
+  {
+    "id": "kolkata",
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "tagline": "IT hubs in Sector V, New Town & heritage South Kolkata",
+    "propertyCount": 15,
+    "startingRent": 5800,
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "image": "https://images.unsplash.com/photo-1558431382-27e303142255?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": [
+      "Salt Lake",
+      "New Town",
+      "Sector V",
+      "Rajarhat",
+      "Dum Dum",
+      "Howrah",
+      "Park Street",
+      "Garia",
+      "Behala",
+      "Jadavpur"
+    ]
+  },
+  {
+    "id": "bangalore",
+    "name": "Bangalore",
+    "state": "Karnataka",
+    "tagline": "Tech corridors across Koramangala, HSR & Whitefield",
+    "propertyCount": 5,
+    "startingRent": 8500,
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "image": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": ["Koramangala", "HSR Layout", "Whitefield", "Indiranagar"]
+  },
+  {
+    "id": "hyderabad",
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "tagline": "Co-living near HITEC City, Madhapur & Gachibowli",
+    "propertyCount": 3,
+    "startingRent": 7800,
+    "lat": 17.385,
+    "lng": 78.4867,
+    "image": "https://images.unsplash.com/photo-1572445271230-a78b5944a659?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": ["Madhapur", "Gachibowli", "HITEC City", "Kondapur"]
+  },
+  {
+    "id": "pune",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "tagline": "Student & IT stays in Hinjewadi, Kothrud & Viman Nagar",
+    "propertyCount": 4,
+    "startingRent": 7200,
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "image": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": ["Hinjewadi", "Viman Nagar", "Kothrud", "Wakad"]
+  },
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "state": "Delhi NCR",
+    "tagline": "North Campus, Hauz Khas & Laxmi Nagar student PGs",
+    "propertyCount": 3,
+    "startingRent": 8200,
+    "lat": 28.6139,
+    "lng": 77.209,
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": ["North Campus", "Hauz Khas", "Malviya Nagar", "Laxmi Nagar"]
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "tagline": "Prime rooms in Andheri West, Powai & Bandra",
+    "propertyCount": 2,
+    "startingRent": 12500,
+    "lat": 19.076,
+    "lng": 72.8777,
+    "image": "https://images.unsplash.com/photo-1529253355930-ddbe423a2ac7?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": ["Andheri West", "Powai", "Bandra", "Lower Parel"]
+  },
+  {
+    "id": "chennai",
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "tagline": "OMR tech park & Velachery comfortable monthly stays",
+    "propertyCount": 2,
+    "startingRent": 7400,
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": ["Velachery", "OMR Thoraipakkam", "Adyar", "Guindy"]
+  },
+  {
+    "id": "noida",
+    "name": "Noida",
+    "state": "Uttar Pradesh",
+    "tagline": "Sector 62, Sector 18 & Botanical Garden metro stays",
+    "propertyCount": 2,
+    "startingRent": 7600,
+    "lat": 28.5355,
+    "lng": 77.391,
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=80",
+    "popularLocalities": ["Sector 62", "Sector 18", "Sector 15", "Greater Noida"]
+  }
+]
